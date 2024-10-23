@@ -1,0 +1,34 @@
+.body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: rgb(250, 203, 211);
+    font-size:20px
+}
+.caixa-1 {
+    border: 10px solid purple;
+    padding: 80px;
+    
+    width: 200px;
+    height: 100px;
+
+    background-color: burlywood;
+}
+.headew {
+    font-size: 80px;
+    text-align: center;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.bnv { 
+    font-size: 40px;
+    text-align: center;
+}
+.op {
+    font-size: 70px;
+    text-align: center;
+}
+.str {
+    font-size: 70px;
+    text-align: center;
+}
+.lcl{
+    font-size: 30px;
+}
